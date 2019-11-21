@@ -1,6 +1,6 @@
 this is first filr to be in my git system
 my name is anthany robin
 <<<<<<< HEAD
-to be or not to be that is the question. ca 1820-1830.
+to be or not to be that is the question. ca 1820-1840.
 =======
 
