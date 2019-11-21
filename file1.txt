@@ -1,11 +1,10 @@
 this is first filr to be in my git system
 my name is anthany robin
 <<<<<<< Updated upstream
-<<<<<<< HEAD
-to be or not to be that is the question. ca 1820-1840.
-=======
+
 
 =======
 to be or not to be that is the question. cs 1800s.
 my name is robin and i know it well.
->>>>>>> Stashed changes
+
+>>>>>>> linkon
